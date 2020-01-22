@@ -1,0 +1,27 @@
+PROPOSED OUTLINE FOR SYNC MEETING
+
+    ask for questions about the course
+        still refining so feedback is super important
+    describe expectations around synchronous meetings
+    review: <script> and <script src="...">
+        Where to put them and why.
+        Why <script src=""> usually works better
+    setting up a p5 project
+    talk about what a library is
+        Concept of DRY and re usability
+    demo drawing shapes
+        ellipse/circle
+        rect
+        line
+        point
+        quad
+        arc
+    demo variables
+    using variable with drawing shapes
+    demo conditional and and or
+    demo alert
+        warn about using alert and prompt in 'production' projects
+    demo prompt
+    talk about git repo configuration
+    any questions
+    discuss office hours
